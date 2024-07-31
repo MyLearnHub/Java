@@ -36,3 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/aula04/01-PrimeiroPrograma/nbproject/private/
+/aula04/02-OlaMundoSwing/nbproject/private/
+/aula04/03-OlaMundoJavaFX/dist/
+/aula04/03-OlaMundoJavaFX/nbproject/private/
+/aula05/02-OlaMundoSwing/nbproject/private/
+/aula05/03-OlaMundoJavaFX/dist/
+/aula05/03-OlaMundoJavaFX/nbproject/private/

@@ -1,4 +1,4 @@
-package aula04.primeiroprograma;
+package aula04.aula;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
