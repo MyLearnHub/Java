@@ -1,4 +1,4 @@
-package aula04.exercicios;
+package exercicios;
 
 import java.util.Locale;
 

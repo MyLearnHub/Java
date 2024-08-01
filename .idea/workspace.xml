@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cb28d53-41e9-4a16-8ed1-b3fad6fc5f24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/nbproject/jfx-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/src/olamundojavafx/FXMLDocument.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/src/olamundojavafx/FXMLDocumentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoJavaFX/src/olamundojavafx/OlaMundoJavaFX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/src/main/java/aula/OlaMundoJava.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula05/OlaMundoSwing/src/main/java/aula/OlaMundoJava.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2k15zqjV0QpwHUSz8LmvcHUe5rP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cb28d53-41e9-4a16-8ed1-b3fad6fc5f24" name="Changes" comment="" />
+      <created>1722438510378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722438510378</updated>
+      <workItem from="1722438513423" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
